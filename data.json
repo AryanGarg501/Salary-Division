@@ -1,0 +1,17 @@
+{
+    "workbench.editor.enablePreview": false,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.minimap.enabled": false,
+    "python.defaultInterpreterPath": "C:\\Program Files\\Python311\\python.exe",
+    "workbench.colorTheme": "Visual Studio Dark",
+    "mssql.connectionGroups": [
+        {
+            "name": "ROOT",
+            "id": "C51CB581-77F6-485B-928A-4F9CE3694A88"
+        }
+    ],
+    "mssql.connections": [],
+    "mssql.autoDisableNonTSqlLanguageService": false
+}
